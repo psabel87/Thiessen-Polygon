@@ -1,5 +1,5 @@
 # Thiessen-Polygon
-This code was created original to implement Thiessen polygons for intermittent rain gauges.
+This code was created original to implement Thiessen polygons for intermittent rain gauges by Paola Sabel and Hilary McMillan at San Diego State University, Department of Geography.
 
 To use the code, you need three files:
 1. A shapefile of your watershed outline
